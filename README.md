@@ -8,6 +8,9 @@ Add this lines to your application's Gemfile:
 ```ruby 
 gem 'google_drive'
 gem 'google-spreadsheet-ruby'
+
+# No longer need `google-spreadsheet-ruby` (see https://github.com/gimite/google-spreadsheet-ruby).
+
 ```
 And then execute:
 ```ruby
