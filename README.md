@@ -1,6 +1,6 @@
 # Spreadsheet Widget
 
-Use this Widget to access a Google Spreadsheet and print the Document in your own style on Dashboard.
+Use this widget to access a Google Spreadsheet and print the document in your own style on your Dashing dashboard.
 
 ## Dependencies
 Using this widget to access Google spreadsheets requires you install the following gems separately.
